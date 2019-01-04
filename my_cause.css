@@ -1,0 +1,46 @@
+/*
+*Mia Casale 
+* Due Date 
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+* { margin:0;
+    padding:0;
+
+}
+
+/* Body attributes here */
+
+body { font-family: fantasy;
+    width: 85%;
+        margin: auto; 
+background-color: lightblue;
+    color: black;
+    
+}
+h1{ 
+text-align: center;
+font-family:inherit;}
+main{ border-top: thick solid blue; 
+  border-bottom: thick solid blue; 
+        
+}
+#zaquitas{clear:both;}
+h2{ margin-top: 5px;
+ font-family: cursive; }
+p{ font-family: serif;
+}
+#cutezaquita{ float: left; margin: 15px; border: 6px solid black; 
+width: 340px; height: 250px}
+#zaquitaswimming{ float: left; margin: 3px; border: 5px solid black;
+width: 230px; height: 200px}
+#zaquitainafishingnet{float: left; margin: 3px; border: 5px solid black;
+width: 270px; height: 200px}
+#twozaquitasswimmingtogetherabovewater{ float: left; margin: 3px; border: 5px solid black;  width; 270px; height: 200px;}
+#zaquitamomandchild{ float: left; margin: 3px; border: 5px solid black; width: 270px; height: 200px;}
+#zaquitaswimminginapool{ float: right; margin: 15px; border: 6px solid black;width: 280px; height: 200px; }
+  
+footer{ clear: both;}
+p{ margin-top: 5px;}
