@@ -1,7 +1,7 @@
 /*
 *Mia Casale 
-* Due Date 
-*Project Name and Description
+* 1/4/19
+*   My cause  and Description
 */
 
 /* The Universal selector */
@@ -11,7 +11,7 @@
 
 }
 
-/* Body attributes here */
+/* the font, width, background color and text color of the body paragraphs  */
 
 body { font-family: fantasy;
     width: 85%;
@@ -20,13 +20,12 @@ background-color: lightblue;
     color: black;
     
 }
-h1{ 
+h1{ /* the spacing of the texr and the the border at the start of the main */
 text-align: center;
 font-family:inherit;}
-main{ border-top: thick solid blue; 
-  border-bottom: thick solid blue; 
+main{ border-top: thick solid blue;  
         
-}
+}     /* all the hastags, floats,  margins, border, heights and widths of all the iamges on the page */  
 #zaquitas{clear:both;}
 h2{ margin-top: 5px;
  font-family: cursive; }
@@ -41,6 +40,9 @@ width: 270px; height: 200px}
 #twozaquitasswimmingtogetherabovewater{ float: left; margin: 3px; border: 5px solid black;  width; 270px; height: 200px;}
 #zaquitamomandchild{ float: left; margin: 3px; border: 5px solid black; width: 270px; height: 200px;}
 #zaquitaswimminginapool{ float: right; margin: 15px; border: 6px solid black;width: 280px; height: 200px; }
-  
-footer{ clear: both;}
-p{ margin-top: 5px;}
+  /* finally the border and te border pu at the top of the footer and spacing of the paragraph margin */ 
+footer{ clear: both;    
+border-top: thick solid blue;}
+p{ margin-top: 5px;
+ }
+h4{ font-family:s serif}
